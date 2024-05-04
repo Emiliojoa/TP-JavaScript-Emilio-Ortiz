@@ -12,9 +12,6 @@ else if(edad >20 && edad <59){
 else if(edad >60 && edad <=119 ){
     console.log("Adulto mayor")
 }
-else if (edad>120 ){
-    console.log("Re muerto ya debe estar")
-}
 else if (edad !=Number){
     console.log("No ingreso una edad")
 }
